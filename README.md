@@ -52,11 +52,13 @@
 </div>
 
 ###
-<!-- Space for Snake Animation
-<br clear="both">
--->
-###
 
+<br clear="both">
+
+<br clear="both"><img src="https://raw.githubusercontent.com/Juanda022/Juanda022/output/snake.svg" alt="Snake animation" />
+
+###
+##
 <img align="left" height="200" src="https://cdn.pixabay.com/animation/2023/10/30/14/40/14-40-05-944_512.gif"  />
 
 ###
